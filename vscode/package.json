@@ -1,0 +1,33 @@
+{
+  "name": "redpanda-theme",
+  "displayName": "RedPanda Theme",
+  "description": "A vibrant and playful theme inspired by red pandas",
+  "version": "0.1.0",
+  "author": "Michael Whobrey <mwhobrey88@gmail.com>",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RedPanda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/redpanda-color-theme.json"
+      },
+      {
+        "label": "RedPanda Light",
+        "uiTheme": "vs",
+        "path": "./themes/redpanda-light-color-theme.json"
+      },
+      {
+        "label": "RedPanda High Contrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/redpanda-hc-color-theme.json"
+      }
+    ]
+  }
+}
