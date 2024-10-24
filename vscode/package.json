@@ -4,6 +4,8 @@
   "description": "A vibrant and playful theme inspired by red pandas",
   "version": "0.1.0",
   "author": "Michael Whobrey <mwhobrey88@gmail.com>",
+  "publisher": "mikewhob",
+  "license": "GPL-3.0",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.60.0"
@@ -11,6 +13,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwhobrey/redpanda.git"
+  },
   "contributes": {
     "themes": [
       {
@@ -34,7 +40,8 @@
     "../README.md",
     "../images/redpanda.png",
     "../images/redpanda-light.png",
-    "../images/redpanda-hc.png"
+    "../images/redpanda-hc.png",
+    "../LICENSE"
   ],
   "readme": "../README.md"
 }
