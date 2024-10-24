@@ -78,6 +78,6 @@ IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY C
 
 ## Support
 
-If you encounter any issues or have suggestions, please file an issue on our [GitHub repository](https://github.com/yourusername/redpanda-theme/issues).
+If you encounter any issues or have suggestions, please file an issue on our [GitHub repository](https://github.com/mwhobrey/redpanda/issues).
 
 Enjoy coding with RedPanda! 🐼
