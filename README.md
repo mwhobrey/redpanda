@@ -2,7 +2,7 @@
 
 RedPanda is a vibrant and playful theme inspired by red pandas. It offers a unique color palette that's easy on the eyes while providing good contrast for code readability.
 
-![RedPanda Theme Preview](./images/redpanda.png)
+![RedPanda Theme Preview](https://raw.githubusercontent.com/mwhobrey/redpanda/main/images/redpanda.png)
 
 ## Features
 
@@ -27,15 +27,15 @@ RedPanda is a vibrant and playful theme inspired by red pandas. It offers a uniq
 
 ### Dark Theme
 
-![RedPanda Dark Theme](./images/redpanda.png)
+![RedPanda Dark Theme](https://raw.githubusercontent.com/mwhobrey/redpanda/main/images/redpanda.png)
 
 ### Light Theme
 
-![RedPanda Light Theme](./images/redpanda-light.png)
+![RedPanda Light Theme](https://raw.githubusercontent.com/mwhobrey/redpanda/main/images/redpanda-light.png)
 
 ### High Contrast Theme
 
-![RedPanda High Contrast Theme](./images/redpanda-hc.png)
+![RedPanda High Contrast Theme](https://raw.githubusercontent.com/mwhobrey/redpanda/main/images/redpanda-hc.png)
 
 ### Recommended Font: Fira Code Nerd Font Mono
 

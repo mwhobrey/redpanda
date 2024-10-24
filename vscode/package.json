@@ -29,5 +29,12 @@
         "path": "./themes/redpanda-hc-color-theme.json"
       }
     ]
-  }
+  },
+  "files": [
+    "../README.md",
+    "../images/redpanda.png",
+    "../images/redpanda-light.png",
+    "../images/redpanda-hc.png"
+  ],
+  "readme": "../README.md"
 }
