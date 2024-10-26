@@ -47,6 +47,14 @@
       }
     },
     {
+      "name": "Comment - Selected",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#A0A0A0"  // Lighter color for selected comments
+      }
+    },
+    {
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {

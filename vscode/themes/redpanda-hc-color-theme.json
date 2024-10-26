@@ -47,6 +47,14 @@
       }
     },
     {
+      "name": "Comment - Selected",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#FFFFFF"  // White for selected comments in high contrast theme
+      }
+    },
+    {
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
